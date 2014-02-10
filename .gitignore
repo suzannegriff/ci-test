@@ -213,11 +213,3 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
-
-#############
-## Build
-#############
-
-# Ignore the target directory
-Matches "target" in any subfolder
-target/
